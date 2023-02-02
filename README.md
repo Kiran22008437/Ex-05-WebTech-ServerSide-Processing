@@ -28,6 +28,7 @@ create a HTML file of forms
 
 
 # PROGRAM:
+```
 <html>
 <head>
 <meta charset='utf-8'>
@@ -90,7 +91,7 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </div>
 </body>
 </html>
-
+````
 # OUTPUT:
 ![Screenshot_20230126_041631](https://user-images.githubusercontent.com/118668751/214817352-137bc3e3-61b9-4dcf-860b-38b2a348050c.png)
 
